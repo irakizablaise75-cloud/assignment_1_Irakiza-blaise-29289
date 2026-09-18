@@ -1,11 +1,9 @@
 # Sunrise Supermarket - PL/SQL Assignment One
 
-**Instructor:** Eric Maniraguha  
-**TA:** Afanyu Emmanuel  
+**Instructor:** Eric Maniraguha    
 **Student Name:** Blaise Irakiza  
 **Student ID:** 29289  
 **Database:** Oracle Database  
-**Repository:** `assignment_1_your_name-your_id`
 
 ---
 
